@@ -1,0 +1,57 @@
+//Prototipos de funcoes
+prototype nada prof(string st, int b);
+prototype double pi();
+
+
+
+//Variaveis globais
+double temp;
+
+
+//main()
+LetTheGamesBegin()
+
+alfa   //inicio de funcao
+
+	string z <- "--zimbrao";
+	temp <- pi();
+	mostre temp;
+	
+	prof(z,10);
+	
+
+
+omega   //fim da main
+
+
+
+
+
+
+nada prof(string st,int b)
+alfa
+	string nota;
+	mostre st;
+	mostre " Esse trabalho é nota :" 
+	mostre b;
+	mostre st;
+	respondo nada;
+omega
+
+
+
+double pi()
+alfa
+	
+	double a;
+	a <- 3.14;
+	mostre "Sou a  funcao PI e descobrimos o valor de pi";
+
+	respondo a;
+omega
+
+
+
+
+
+

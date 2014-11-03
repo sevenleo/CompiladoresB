@@ -1,0 +1,163 @@
+//Prototipos de funcoes
+prototype nada func();
+
+
+prototype double pi();
+
+prototype float mean(double a, double b, float deviation, float squared);
+
+
+//Variaveis globais
+bool test, test1;
+float f1, f2;
+double d1, d2;
+int temp1, temp2, temp3;
+string str;
+char alfabeto;
+
+//main()
+LetTheGamesBegin()
+
+alfa   //inicio de funcao
+
+	
+	int a, b;
+	char c, d;
+	float f;
+	double temp;
+	string s;
+	string resposta;
+	string resposta2;
+	string resposta3;
+	string resposta4;
+	int zeta;
+
+	double testafuncao;
+	int teste1, teste2;
+
+	double zete <- 5.2;
+
+	int beta(4, 2);
+	beta(0, 0) <- 6;
+
+	func();
+
+	temp <- pi();
+
+	//mostre f;
+
+	resposta <- "";
+alfabeto <- 'z';
+
+	//mostre << beta(0, 0);
+	test <- yang;
+	test1 <- yin;
+
+	teste1 <- 0;
+	teste2 <- 20;
+
+	c <- 'a';
+	d1 <- 4.56789 + 3.12456;
+	//mostre << d1;
+	
+	a <- 19;
+	f <- 4.7;
+	s <- "oi";
+
+	//IF COM ELSE
+	rola se(a < 20)
+
+		//mostre << a;
+		a <- a * 10;
+
+		//mostre << "a e menor que 20";
+
+	nao rolou
+
+		a <- a * 5;
+
+		//mostre << "a e maior ou igual a 20";
+
+	end nao rolou
+
+
+	//WHILE
+	enrola se(a < 20)
+		
+		//mostre << a;
+		a <- a + 5;
+
+	end enrola se
+
+	//mostre << "Quer entrar com dados? ";
+
+	//FOR
+	enrolando(zeta <- 10; zeta < 20)
+		
+		//mostre << zeta;
+		zeta <- zeta + 1;
+	
+	end enrolando
+
+	
+	resposta <- resposta2+resposta3;
+	mostre resposta;
+	//mostre << resposta; 
+
+	//DO WHILE
+	faz
+		//mostre << "oi";
+
+		teste1 <- teste1 + 3;
+		teste2 <- teste2 + 1;
+
+		//mostre << teste1;
+		//mostre << teste2;
+
+	enrola se(teste2 > teste1);
+	
+
+	//Saida de dados
+	//mostre << a;
+	//mostre << a * 5 * 4;
+	//mostre << a + b;
+
+	a <- a + 2;		
+	temp <- 2 + 7.5;
+		
+
+	a <- 10;
+	resposta2 <- "Ola";
+	resposta3 <- " mundo!";
+	mostre "---2";
+	mostre resposta2;
+	mostre "---3";
+	mostre resposta3;
+	
+	resposta <- resposta2+resposta3;
+	mostre "--- ambos";
+	mostre resposta;
+
+omega   //fim da main
+
+nada func()
+alfa
+	
+	mostre  "Sou a  funcao FUNC e nao retorno nada!";
+	respondo nada;
+omega
+
+double pi()
+alfa
+	
+	double a;
+	a <- 10.0;
+	mostre "Sou a  funcao PI e nao retorno nada!";
+
+	respondo a;
+omega
+
+
+
+
+
